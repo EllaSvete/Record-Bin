@@ -1,5 +1,5 @@
 ## Weapons of Mass Instruction
-### RECCd.bin project
+### RECCrd.bin project
 
 [Team plan for 301 Final project 2022](https://github.com/Weapons-of-Mass-Instruction/Team-Plan)
 
